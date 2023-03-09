@@ -1,2 +1,2 @@
-# Group Full Release
+# Group Full Release Agents
 Shiloh, Tekoa, Ben, Andrew, Kyle
