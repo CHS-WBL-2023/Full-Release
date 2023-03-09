@@ -1,2 +1,2 @@
-# Group Full Release Agents
+# Full Release Secret Agents
 Shiloh, Tekoa, Ben, Andrew, Kyle
